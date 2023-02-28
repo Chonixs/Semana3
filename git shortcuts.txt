@@ -1,0 +1,8 @@
+git branch + nombre ---> Crea ramas 
+git checkout + nombre ---> Cambiar ramas 
+
+---------------------------------------------
+git checkout -b + nombreNuevaRama ----> Crea y mueve 
+
+----------------------------------------------
+git switch -c + nombreNuevaRama ----> Crea y mueve
